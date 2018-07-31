@@ -1,7 +1,7 @@
 // add solution here
 
   
-function theBeatlesPlay(musiciansArray, instrumentsArray){
+function theBeatlesPlay(musicians, instruments){
    var x = [ ]
    
    for (i = 0; i < 4; i++) {
