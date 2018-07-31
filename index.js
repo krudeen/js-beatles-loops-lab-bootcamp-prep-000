@@ -1,6 +1,6 @@
 // add solution here
 
 function theBeatlesPlay(musiciansArray, instrumentsArray){
-   var = []
+   var array = []
   
 }
