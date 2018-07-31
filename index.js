@@ -1,5 +1,6 @@
 // add solution here
 
   
-}function theBeatlesPlay(musiciansArray, instrumentsArray){
+function theBeatlesPlay(musiciansArray, instrumentsArray){
    var array = []
+}
