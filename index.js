@@ -2,7 +2,7 @@
 
   
 function theBeatlesPlay(musicians, instruments){
-   var x = [ ]
+   var x = [];
    
    for (i = 0; i < 4; i++) {
   [loopBody]
