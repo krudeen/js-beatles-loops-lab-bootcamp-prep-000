@@ -4,7 +4,7 @@
 function theBeatlesPlay(musiciansArray, instrumentsArray){
    var x = [ ]
    
-   for () {
+   for (i = 0 ) {
   [loopBody]
 }
 }
