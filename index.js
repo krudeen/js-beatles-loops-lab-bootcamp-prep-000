@@ -2,5 +2,5 @@
 
   
 function theBeatlesPlay(musiciansArray, instrumentsArray){
-   var x = []
+   var x = [ ]
 }
